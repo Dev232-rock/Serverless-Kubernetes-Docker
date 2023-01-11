@@ -1,0 +1,9 @@
+{
+  "name": "knative-test",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-knative": "*"
+  }
+}
